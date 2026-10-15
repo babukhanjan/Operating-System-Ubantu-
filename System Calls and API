@@ -1,0 +1,6 @@
+System Calls in Operaring System
+Programming interfaces to the services available  made by operating system is called system cal
+example: Open file() ,create file(), an delete file()
+
+API(Application Programmming interfaces)
+API is set of rules ,function methods,protocoles to communicate one software without kow its internal architecture
