@@ -1,0 +1,12 @@
+Programming Language support in OS:
+Define Compiler:
+Compile translate the program into machine code.As programm are written text or characters or cpu cannot undertsand that so compiler convert these text based progras into machine code which are complete understad by cpu
+
+Define assembler:
+Assembler is a system program that converts assembly code statements into machinde code
+
+define Debugger :
+Debugger is proram usd to detect,locate ,analyze and remove errors in code berfor running or duriing run time like gdb debugger in ubantu
+
+Define Interpreter:
+Interpreter is a system program that translate an dcompile codes line by line not whole coe at the same time time and giving fast processes
